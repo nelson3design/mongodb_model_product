@@ -1,0 +1,53 @@
+
+
+[
+    {
+    "name": "pizza",
+    "description": "carabreza",
+    "preco": 40.50,
+    "categories": [
+        "pizza"
+    ],
+    "destaque": "sim"
+},
+
+{
+    "name": "lewis",
+    "email": "lewis@gmail.com",
+    "telefone": [
+        "48999856534",
+        "4899846343"
+    ],
+    "endereco": [
+        {
+            "cep": 881372626,
+            "rua": "rua carauna",
+            "numero": 86,
+            "complemento": "casa 1",
+            "bairro": "bela vista",
+            "cidade": "palhoça",
+            "estado": "SC"
+        }
+    ]
+},
+{
+    "cliente_id": "630e7a35f721bd68ba0d5192",
+    "produto_id": "631f2d17f5d447f4113983de",
+    "item_id": "631f24ae4afd451595f1c983",
+    "status": "aprovado",
+    "item_comprado": [
+        {
+            "produto_id": "631f2d17f5d447f4113983de",
+            "preco_venda": 5.90,
+            "quantidade": 1,
+            "item_adicionado": [
+                {
+                    "item_id": "631f24ae4afd451595f1c983",
+                    "preco_venda": 4.50,
+                    "quantidade": 1
+                }
+            ]
+        }
+    ]
+}
+]
